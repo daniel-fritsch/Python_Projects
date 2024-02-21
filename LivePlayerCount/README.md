@@ -1,4 +1,4 @@
-######Active Player Counter
+# Active Player Counter
 
 
 This is a python program which collects the current online active player counts of popular videogames and displays them in decreasing order.
